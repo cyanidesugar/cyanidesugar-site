@@ -4,6 +4,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Log In &lsaquo; cyanidesugar &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
+<script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
+<script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <link rel="stylesheet" id="dashicons-css" href="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/css/dashicons.min.css?ver=6.1.1" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/css/buttons.min.css?ver=6.1.1" media="all">
 <link rel="stylesheet" id="forms-css" href="https://cyanidesugar.github.io/cyanidesugar-site/wp-admin/css/forms.min.css?ver=6.1.1" media="all">
@@ -48,9 +50,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
 			<a href="https://cyanidesugar.github.io/cyanidesugar-site/">&larr; Go to cyanidesugar</a>		</p>
 			</div>
-			<script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
-<script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-<script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"https:\/\/cyanidesugar.github.io\/cyanidesugar-site\/wp-includes\/js\/zxcvbn.min.js"};</script>
+			<script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"https:\/\/cyanidesugar.github.io\/cyanidesugar-site\/wp-includes\/js\/zxcvbn.min.js"};</script>
 <script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
 <script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
 <script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
@@ -64,7 +64,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"20c0079f14"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"687e4abd21"};</script>
 <script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
