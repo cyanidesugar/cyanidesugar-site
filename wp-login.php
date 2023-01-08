@@ -64,7 +64,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"687e4abd21"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"888bec0fa5"};</script>
 <script src="https://cyanidesugar.github.io/cyanidesugar-site/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
